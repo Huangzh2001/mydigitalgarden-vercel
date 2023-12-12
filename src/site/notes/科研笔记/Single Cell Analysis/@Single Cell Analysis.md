@@ -1,5 +1,5 @@
 ---
-{"tags":["Notes","Single-Cell-Analysis","gardenEntry"],"title":"Home","dg-publish":true,"dg-home":true,"permalink":"/科研笔记/Single Cell Analysis/@Single Cell Analysis/","dgPassFrontmatter":true}
+{"tags":["Notes","Single-Cell-Analysis"],"title":"Home","dg-publish":true,"permalink":"/科研笔记/Single Cell Analysis/@Single Cell Analysis/","dgPassFrontmatter":true}
 ---
 
 
