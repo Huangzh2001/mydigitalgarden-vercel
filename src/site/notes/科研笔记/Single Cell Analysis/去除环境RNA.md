@@ -96,7 +96,7 @@ $m_{g,c}=n_{g,c}-N_c\rho_cb_g,$
 
 ### (3)项目实战
 
-[[科研笔记/Single Cell Analysis/Jupyter Notebok/Correction of ambient RNA\|Correction of ambient RNA]]
+[[Correction of ambient RNA\|Correction of ambient RNA]]
 
 ## 方法 2 : DecontX
 
