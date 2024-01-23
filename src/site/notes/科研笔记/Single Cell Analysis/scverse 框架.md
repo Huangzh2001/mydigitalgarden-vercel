@@ -66,7 +66,7 @@ pip install h5py-3.10.0-cp310-cp310-win_amd64.whl
 
 ## 1.anndata单峰数据存储
 
-[[科研笔记/Single Cell Analysis/Jupyter Notebok/Anndata的基础操作\|Anndata的基础操作]]
+[[Anndata的基础操作\|Anndata的基础操作]]
 ## 2.scanpy单峰数据分析
 
 在后续的项目学习中我们会慢慢学习
